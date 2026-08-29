@@ -1,0 +1,25 @@
+{
+  "name": "مؤسسة العتيق للمظلات والسواتر",
+  "short_name": "العتيق للمظلات",
+  "description": "تصميم وتركيب المظلات والسواتر والبرجولات والساندوتش بانل بالرياض",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1a2332",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "images/logo_result.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/logo_result.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}

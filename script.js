@@ -13,10 +13,10 @@ const CONFIG = {
   clientPhone: '0500434097',
   clientPhoneIntl: '966500434097',
   devPhoneIntl: '966578539687',
-  adsConversionId: 'AW-xxxxxxxxxxxxx',
-  callConversionLabel: 'xxxxxxxxxxxxxxxxx',
-  whatsappConversionLabel: 'xxxxxxxxxxxxxx',
-  formConversionLabel: 'xxxxxxxxxxxxxxxxxxx'
+  adsConversionId: 'AW-18458542952',
+  callConversionLabel: 'fW2jCJ35yfwcEOiG3OFE',
+  whatsappConversionLabel: 'RF0VCKD5yfwcEOiG3OFE',
+  formConversionLabel: 'z5qpCLqVzvwcEOiG3OFE'
 };
 
 // 2. تحميل كود تتبع إعلانات قوقل بطريقة غير حاجزة للأداء (Idle Execution)
